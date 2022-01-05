@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://192.168.1.104/vlisco/';
-$config['base_url'] = 'https://www.rabisarl.com';
+$config['base_url'] = 'http://www.rabisarl.com';
 
 /*
 |--------------------------------------------------------------------------

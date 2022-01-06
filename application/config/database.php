@@ -76,10 +76,10 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	// 'username' => 'u589673144_vlisco001',
-	// 'password' => 'Vlisco001',
+	// 'username' => 'root',
+	// 'password' => '',
+	'username' => 'u589673144_vlisco001',
+	'password' => 'Vlisco001',
 
 	'database' => 'u589673144_vlisco001',
 	'dbdriver' => 'mysqli',
